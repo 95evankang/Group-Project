@@ -15,8 +15,12 @@ In our group wiki, we give the readers an overall understanding of what [high](h
 
 Contributors:
 
- * Tom Ho
- * Wendy Salinas-Reyes
- * Larry Try
- * Evan Kang - (Owner of repository)
- * Jade Kimbrough 
+* Page 1 Written By: Tom Ho
+
+* High-level Language Written By: Wendy Salinas-Reyes
+
+* Low-level Language Written By: Larry Try
+
+* The Middle Ground - C/C++ (High-level) Written By: Evan Kang (Repo Owner)
+
+* The Middle Ground - C/C++ (Low-level) Written By: Jade Kimbrough (Team Lead/Editor)
